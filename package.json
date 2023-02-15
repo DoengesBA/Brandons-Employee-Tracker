@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angelinama/employee-tracker.git"
+    "url": "git+https://doengesba.github.io/Brandons-Employee-Tracker/"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/angelinama/employee-tracker/issues"
+    "url": "https://doengesba.github.io/Brandons-Employee-Tracker/"
   },
-  "homepage": "https://github.com/angelinama/employee-tracker#readme",
+  "homepage": "https://doengesba.github.io/Brandons-Employee-Tracker/",
   "dependencies": {
     "console.table": "^0.10.0",
     "dotenv": "^8.2.0",
